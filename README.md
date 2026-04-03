@@ -7,8 +7,6 @@ I am a **Backend Engineer** with a deep-rooted background in **Systems Engineeri
 
 ### 🛠️ Core Backend Stack
 
-| Category | Technologies |
-| :--- | :--- |
 * **Languages** : Python (Django, FastAPI, Flask), Golang, Bash 
 * **Databases** : PostgreSQL, MySQL, Redis (Caching), MongoDB 
 * **Storage & Filesystems** : Ceph RBD, ZFS, LVM, S3-Compatible Storage 
@@ -48,7 +46,7 @@ I prioritize security in the backend—implementing **JWT/OAuth2** authenticatio
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
+# 📊 GitHub Insighs:
 ![](https://github-readme-stats.vercel.app/api?username=EnockKipkorir594&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=EnockKipkorir594&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnockKipkorir594&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -58,8 +56,3 @@ I prioritize security in the backend—implementing **JWT/OAuth2** authenticatio
 
 
 
-
-
-
-- ⚡ Fun fact: ...
--->
