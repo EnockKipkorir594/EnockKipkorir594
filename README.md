@@ -9,7 +9,7 @@ I am a **Backend Engineer** with a deep-rooted background in **Systems Engineeri
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python (Django, FastAPI, Flask), Golang, Bash |
+* **Languages** : Python (Django, FastAPI, Flask), Golang, Bash 
 | **Databases** | PostgreSQL, MySQL, Redis (Caching), MongoDB |
 | **Storage & Filesystems** | Ceph RBD, ZFS, LVM, S3-Compatible Storage |
 | **Architectures** | RESTful APIs, Microservices, Event-Driven Design |
