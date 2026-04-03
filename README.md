@@ -1,7 +1,47 @@
 
-# 💫 About Me:
-I'm a student currently learning backend intergrated with devops <br>I'm proficient in python  and well with conversant with Flask and Fastapi <br>web frameworks. For database I'm still learning Postgresql and MongoDB. <br>I've build a couple of REST APIs  which are on my github repositories. <br>I'm also learning Docker, github actions and Kubernetes. I'm looking to <br>land internship I do leetcode everyday, I have even created a repository<br>for my progress. 
+# 🚀 Backend Engineer | Systems-Focused Developer
 
+I am a **Backend Engineer** with a deep-rooted background in **Systems Engineering**. I specialize in building robust, high-performance server-side applications and architecting the data layers that power them. My transition from DevOps to Backend allows me to write code that isn't just functional, but is optimized for the underlying Linux OS and hardware.
+
+---
+
+### 🛠️ Core Backend Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python (Django, FastAPI, Flask), Golang, Bash |
+| **Databases** | PostgreSQL, MySQL, Redis (Caching), MongoDB |
+| **Storage & Filesystems** | Ceph RBD, ZFS, LVM, S3-Compatible Storage |
+| **Architectures** | RESTful APIs, Microservices, Event-Driven Design |
+| **Testing & Quality** | Pytest, Unit Testing, Integration Testing |
+| **Environment** | Linux (Ubuntu/RHEL), Docker, Git, SSH |
+
+---
+
+### 💻 What I Build
+
+#### 🏗️ Scalable API Development
+I design and implement secure, performant **REST APIs** using Python and Golang. I focus on clean code principles, ensuring that endpoints are well-documented, versioned, and capable of handling high-concurrency workloads.
+
+#### 🗄️ Database Design & Optimization
+Coming from a systems background, I don't just write queries; I understand how they hit the disk. I have hands-on experience with:
+* **Relational Mapping:** Advanced PostgreSQL indexing, schema migrations, and ACID compliance.
+* **Storage Logic:** Managing data at scale using **LVM** and **ZFS** to ensure data integrity and performance tuning.
+
+#### ⚙️ System-Level Backend Integration
+I bridge the gap between software and the OS. I develop backend services that interact directly with Linux internals, managing processes, networking stacks, and automated system-level task scheduling.
+
+#### 🛡️ Secure & Performant Systems
+I prioritize security in the backend—implementing **JWT/OAuth2** authentication, role-based access control (RBAC), and ensuring data is encrypted at rest and in transit (SSL/TLS, VPN/IPSec).
+
+---
+
+### 🧪 Technical Deep Dives
+* **Concurrency in Go:** Building efficient microservices that leverage Goroutines for high-throughput data processing.
+* **Pythonic Architecture:** Leveraging Django for complex ORM logic and FastAPI for high-speed asynchronous services.
+* **Automation Tooling:** Writing custom backend scripts to automate the lifecycle of Virtual Machines (KVM/Proxmox) via APIs.
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enock-kipkorir713mmu) 
@@ -16,17 +56,10 @@ I'm a student currently learning backend intergrated with devops <br>I'm profici
 ---
 [![](https://visitcount.itsvg.in/api?id=EnockKipkorir594&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!--
-**EnockKipkorir594/EnockKipkorir594** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
+
+
 - ⚡ Fun fact: ...
 -->
