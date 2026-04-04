@@ -1,6 +1,56 @@
-# 💫 About Me:
-I am a Backend Engineer with a deep-rooted background in Systems Engineering. I specialize in building robust, high-performance server-side applications and architecting the data layers that power them. My transition from DevOps to Backend allows me to write code that isn't just functional, but is optimized for the underlying Linux OS and hardware.<br><br>🛠️ Core Backend Stack<br>Languages : Python (Django, FastAPI, Flask), Golang, Bash<br>Databases : PostgreSQL, MySQL, Redis (Caching), MongoDB<br>Storage & Filesystems : Ceph RBD, ZFS, LVM, S3-Compatible Storage<br>Architectures : RESTful APIs, Microservices, Event-Driven Design<br>Testing & Quality : Pytest, Unit Testing, Integration Testing<br>Environment : Linux (Ubuntu/RHEL), Docker, Git, SSH<br>💻 What I Build<br>🏗️ Scalable API Development<br>I design and implement secure, performant REST APIs using Python and Golang. I focus on clean code principles, ensuring that endpoints are well-documented, versioned, and capable of handling high-concurrency workloads.<br><br>🗄️ Database Design & Optimization<br>Coming from a systems background, I don't just write queries; I understand how they hit the disk. I have hands-on experience with:<br><br>Relational Mapping: Advanced PostgreSQL indexing, schema migrations, and ACID compliance.<br>Storage Logic: Managing data at scale using LVM and ZFS to ensure data integrity and performance tuning.<br>⚙️ System-Level Backend Integration<br>I bridge the gap between software and the OS. I develop backend services that interact directly with Linux internals, managing processes, networking stacks, and automated system-level task scheduling.<br><br>🛡️ Secure & Performant Systems<br>I prioritize security in the backend—implementing JWT/OAuth2 authentication, role-based access control (RBAC), and ensuring data is encrypted at rest and in transit (SSL/TLS, VPN/IPSec).<br><br>🧪 Technical Deep Dives<br>Concurrency in Go: Building efficient microservices that leverage Goroutines for high-throughput data processing.<br>Pythonic Architecture: Leveraging Django for complex ORM logic and FastAPI for high-speed asynchronous services.<br>Automation Tooling: Writing custom backend scripts to automate the lifecycle of Virtual Machines (KVM/Proxmox) via APIs.<br>
+# 🚀 Backend Engineer | Systems-Focused Developer
 
+I am a **Backend Engineer** with a deep-rooted background in **Systems Engineering**. I specialize in building robust, high-performance server-side applications and architecting the data layers that power them. My transition from DevOps to Backend allows me to write code that isn't just functional, but is optimized for the underlying Linux OS and hardware.
+
+---
+
+### 🛠️ Core Backend Stack
+
+* **Languages** : Python (Django, FastAPI, Flask), Golang, Bash 
+* **Databases** : PostgreSQL, MySQL, Redis (Caching), MongoDB 
+* **Storage & Filesystems** : Ceph RBD, ZFS, LVM, S3-Compatible Storage 
+* **Architectures** : RESTful APIs, Microservices, Event-Driven Design 
+* **Testing & Quality** : Pytest, Unit Testing, Integration Testing 
+* **Environment** : Linux (Ubuntu/RHEL), Docker, Git, SSH 
+
+---
+
+### 💻 What I Build
+
+#### 🏗️ Scalable API Development
+I design and implement secure, performant **REST APIs** using Python and Golang. I focus on clean code principles, ensuring that endpoints are well-documented, versioned, and capable of handling high-concurrency workloads.
+
+#### 🗄️ Database Design & Optimization
+Coming from a systems background, I don't just write queries; I understand how they hit the disk. I have hands-on experience with:
+* **Relational Mapping:** Advanced PostgreSQL indexing, schema migrations, and ACID compliance.
+* **Storage Logic:** Managing data at scale using **LVM** and **ZFS** to ensure data integrity and performance tuning.
+
+#### ⚙️ System-Level Backend Integration
+I bridge the gap between software and the OS. I develop backend services that interact directly with Linux internals, managing processes, networking stacks, and automated system-level task scheduling.
+
+#### 🛡️ Secure & Performant Systems
+I prioritize security in the backend—implementing **JWT/OAuth2** authentication, role-based access control (RBAC), and ensuring data is encrypted at rest and in transit (SSL/TLS, VPN/IPSec).
+
+---
+
+### 🧪 Technical Deep Dives
+* **Concurrency in Go:** Building efficient microservices that leverage Goroutines for high-throughput data processing.
+* **Pythonic Architecture:** Leveraging Django for complex ORM logic and FastAPI for high-speed asynchronous services.
+* **Automation Tooling:** Writing custom backend scripts to automate the lifecycle of Virtual Machines (KVM/Proxmox) via APIs.
+
+---
+
+### 📈 Current Projects & Learning
+* **Distributed Systems:** Studying consensus algorithms and distributed locking mechanisms.
+* **Go Internals:** Deepening my knowledge of memory management and the Go scheduler.
+* **Advanced Postgres:** Mastering window functions and query execution plans for performance auditing.
+
+---
+
+### 📫 Connect with Me
+* **Role Interests:** Backend Engineer, Software Engineer (Systems), API Developer.
+* **GitHub:** [https://github.com/EnockKipkorir594]
+* **LinkedIn:** [(https://www.linkedin.com/in/enock-kipkorir713mmu/)]
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Enock Kipkorir) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/squidy_vibe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enock-kipkorir713mmu) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/kipkorirenock594) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Specific_Scene76) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/sketch_me123) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kipkorir_e84021) 
