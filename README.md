@@ -60,7 +60,7 @@ I prioritize security in the backend—implementing **JWT/OAuth2** authenticatio
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EnockKipkorir594&theme=tokyonight" />
+|<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EnockKipkorir594&theme=tokyonight" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EnockKipkorir594&theme=tokyonight" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EnockKipkorir594&theme=tokyonight" /> | <img src="https://github-readme-streak-stats-eight.vercel.app/?user=EnockKipkorir594&theme=tokyonight" /> |
 
 ## 🛠️ Most Used Languages
 
@@ -71,9 +71,7 @@ I prioritize security in the backend—implementing **JWT/OAuth2** authenticatio
 ## 🔥 Streak Stats
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=EnockKipkorir594&theme=tokyonight" />
-## 🔥 Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EnockKipkorir594&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api?username=EnockKipkorir594&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=EnockKipkorir594&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnockKipkorir594&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
