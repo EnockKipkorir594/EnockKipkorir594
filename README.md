@@ -60,7 +60,7 @@ I prioritize security in the backend—implementing **JWT/OAuth2** authenticatio
 
 ## 📊 GitHub Stats
 
-|<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EnockKipkorir594&theme=tokyonight" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EnockKipkorir594&theme=tokyonight" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EnockKipkorir594&theme=tokyonight" /> | <img src="https://github-readme-streak-stats-eight.vercel.app/?user=EnockKipkorir594&theme=tokyonight" /> |
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EnockKipkorir594&theme=tokyonight" /> 
 
 ## 🛠️ Most Used Languages
 
