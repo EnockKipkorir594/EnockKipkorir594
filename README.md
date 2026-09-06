@@ -6,8 +6,8 @@ I am a **Backend Engineer** with a deep-rooted background in **Systems Engineeri
 
 ### 🛠️ Core Backend Stack
 
-* **Languages** : Python (Django, FastAPI, Flask), Golang, Bash 
-* **Databases** : PostgreSQL, MySQL, Redis (Caching), MongoDB 
+* **Languages** : Python (Django, FastAPI, Flask), Typescript(Node.js, Express), Bash 
+* **Databases** : PostgreSQL, MySQL, Redis (Caching), MongoDB, Prisma ORM
 * **Storage & Filesystems** : Ceph RBD, ZFS, LVM, S3-Compatible Storage 
 * **Architectures** : RESTful APIs, Microservices, Event-Driven Design 
 * **Testing & Quality** : Pytest, Unit Testing, Integration Testing 
